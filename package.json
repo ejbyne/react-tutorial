@@ -1,0 +1,28 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ejbyne/react-tutorial.git"
+  },
+  "author": "Edward Byne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejbyne/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/ejbyne/react-tutorial"
+}
